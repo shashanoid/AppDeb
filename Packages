@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: shashanoid
 Filename: ./debs/com.shashwat.livetv_1.0_iphoneos-arm.deb
 Size: 113636
-MD5sum: 93d352e508e7af0ce7ef7c1ed4abdcba
-SHA1: e88c7217f3deb10d4fb90b074d734d6fc16771ad
-SHA256: 213d7c65cb2a246825bc5e338348431d7f1b1c189f0cabb46677a11b2e2caec1
+MD5sum: e052f87cd9d5e3d1f3ace49fc47d0766
+SHA1: 838908dfb21ad340886cf6e016569abb8e47f015
+SHA256: 9291f1eaf4ce2d09b5b5276c099b0a80a971ad9db745595049287a6b83499fc9
 Section: Entertainment
 Description: Watch Live TV For free
 Author: shashanoid
