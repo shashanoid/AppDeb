@@ -1,0 +1,9 @@
+Package: com.shashwat.livetv
+Name: Live TV Free
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Watch Live TV For free
+Maintainer: shashanoid
+Author: shashanoid
+Section: Entertainment
+Icon: file:///Applications/livetv.app/icon57x57_flat.png
