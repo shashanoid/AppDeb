@@ -1,0 +1,10 @@
+Package: com.hululu.test
+Name: Live TV Free
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Watch Live TV 
+Maintainer: shashanoi
+Author: shashanoi
+Section: Multimedia
+Icon: file:///Applications/Live TV.app/icon57x57_flat.png
+

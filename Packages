@@ -1,0 +1,15 @@
+Package: com.hululu.test
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: shashanoi
+Filename: ./debs/com.hululu.test_1.1_iphoneos-arm.deb
+Size: 92586
+MD5sum: 364eef6c66d7fa80b77e82054026c34f
+SHA1: fbd149cecc3f72465ec296cd0f9fd4748542e0fd
+SHA256: cfb075f58bcc661991a817300b31a3113a368efeb42d8e64100d28c8213c019b
+Section: Multimedia
+Description: Watch Live TV
+Author: shashanoi
+Icon: file:///Applications/Live TV.app/icon57x57_flat.png
+Name: Live TV Free
+
