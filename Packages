@@ -3,10 +3,10 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: shashanoid <shashanoid@gmail.com>
 Filename: ./debs/com.shashanoid.livetv_1.3_iphoneos-arm.deb
-Size: 90644
-MD5sum: 1f54d3867b4d328055f76dd0cd7f6f5e
-SHA1: 7168f428d99c94ad3c2eab864506c4a043e5af13
-SHA256: dda46e3869e479a8133fb4748bae25767fbc9d6a78ad31af3949bca526797eac
+Size: 92632
+MD5sum: 41e4009e8f636bc4aeda031a381621d0
+SHA1: c1ab4158b47adc82aca88086dea67c77279c50d6
+SHA256: 5d46567b2e90c50742b86feeb72bafc89c03ad7ddff8f70c1fb6432dc35b02f3
 Section: Multimedia
 Description: Watch Live TV in HD for free - Cricket, Football etc.
 Author: shashanoid <shashanoid@gmail.com>
