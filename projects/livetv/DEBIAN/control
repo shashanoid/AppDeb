@@ -1,10 +1,10 @@
-Package: com.hululu.test
+Package: com.shashanoid.livetv
 Name: Live TV Free
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
-Description: Watch Live TV 
-Maintainer: shashanoi
-Author: shashanoi
+Description: Watch Live TV - Sky Sports, Bt Sports, Euro Sports etc in HD on iphone/ipad/ipod
+Maintainer: shashanoid <shashanoid@gmail.com>
+Author: shashanoid <shashanoid@gmail.com>
 Section: Multimedia
 Icon: file:///Applications/Live TV.app/icon57x57_flat.png
 
