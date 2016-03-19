@@ -3,13 +3,13 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: shashanoid <shashanoid@gmail.com>
 Filename: ./debs/com.shashanoid.livesportstv_1.1_iphoneos-arm.deb
-Size: 90670
-MD5sum: 5b769610dbb6c3542dd85549fe8c8553
-SHA1: 790efc41cd943fa3c86e2c0665545fc6b2c7242c
-SHA256: 2d01a7ae665d6eb93558fafa7400e419f207be3b4275214ec67af181936efd40
+Size: 90666
+MD5sum: 8d4c60f7c845b82c1a423ad6576c8e85
+SHA1: d929e530173f5d8d8ee3792e662e6147970a1d96
+SHA256: e27358b1adae8496b9f6b499b9cc9f208e50213e6808b4cbb7d736759d6f7dd8
 Section: iApps
 Description: Watch Live TV - Sky Sports, ESPN, Bt Sport, beIN etc in HD for free on iphone/ipad/ipod
 Author: shashanoid <shashanoid@gmail.com>
 Icon: file:///Applications/Live TV.app/icon57x57_flat.png
-Name: Live Sports TV
+Name: Live TV Free
 
