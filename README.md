@@ -1,2 +1,3 @@
-# shashanoid.github.io
-New Cydia Repo ( ubuntu )
+# Create Deb packages for your iOS applications.
+
+*Instructions coming soon*
